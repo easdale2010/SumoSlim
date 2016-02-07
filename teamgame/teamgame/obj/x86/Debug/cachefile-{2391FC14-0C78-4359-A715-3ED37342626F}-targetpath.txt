@@ -1,0 +1,43 @@
+Content\high score table normal.xnb
+Content\high score table selected.xnb
+Content\fullmoon.xnb
+Content\controls.xnb
+Content\background.xnb
+Content\desert_BG.xnb
+Content\chipsPHG.xnb
+Content\evilHotdog.xnb
+Content\SS_Fat.xnb
+Content\SS_Medium.xnb
+Content\SS_thin.xnb
+Content\Main_Menu.xnb
+Content\gameoverimage.xnb
+Content\CheeseburgerRage.xnb
+Content\evilBurger.xnb
+Content\circle.xnb
+Content\diamond.xnb
+Content\star.xnb
+Content\banana.xnb
+Content\magic_008.xnb
+Content\magic_003.xnb
+Content\CONTROLS (2).xnb
+Content\CONTROLS BUTTON.xnb
+Content\EXIT LOGO.xnb
+Content\EXIT.xnb
+Content\HIGH SCORE LOGO.xnb
+Content\HIGH SCORE.xnb
+Content\START LOGO.xnb
+Content\START.xnb
+Content\donut.xnb
+Content\donutBoss.xnb
+Content\victoryscreen1.xnb
+Content\Xbox360_Button_B.xnb
+Content\earth_002.xnb
+Content\fire_003.xnb
+Content\font.xnb
+Content\menuSound.xnb
+Content\explosive_attack.xnb
+Content\MENU A_Select.xnb
+Content\playerjump.xnb
+Content\collectgfood.xnb
+Content\jump sound 1.xnb
+Content\ballhit.xnb
